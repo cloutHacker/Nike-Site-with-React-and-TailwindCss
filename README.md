@@ -22,18 +22,18 @@ Learn how to build this project from scratch by following the full tutorial on Y
 
 Here are some screenshots of sections in the project:
 
-|                🔹 Nav and Hero                 |              🔹 Popular Products               |
-| :--------------------------------------------: | :--------------------------------------------: |
-|  ![](assets/screenshots/nav-hero-section.png)  |  ![](assets/screenshots/popular-products.png)  |
-|                🔹 Super Quality                |                  🔹 Services                   |
-| :--------------------------------------------: | :--------------------------------------------: |
-|   ![](assets/screenshots/super-quality.png)    |      ![](assets/screenshots/services.png)      |
-|               🔹 Special Offers                |              🔹 Customer Reviews               |
-| :--------------------------------------------: | :--------------------------------------------: |
-|   ![](assets/screenshots/special-offers.png)   |  ![](assets/screenshots/customer-reviews.png)  |
-|                 🔹 Newsletter                  |                     Footer                     |
-| :--------------------------------------------: | :--------------------------------------------: |
-|     ![](assets/screenshots/subscribe.png)      |       ![](assets/screenshots/footer.png)       |
+|                 🔹 Nav and Hero                  |               🔹 Popular Products                |
+| :----------------------------------------------: | :----------------------------------------------: |
+| ![](src/assets/screenshots/nav-hero-section.png) | ![](src/assets/screenshots/popular-products.png) |
+|                 🔹 Super Quality                 |                   🔹 Services                    |
+|  :--------------------------------------------:  |  :--------------------------------------------:  |
+|  ![](src/assets/screenshots/super-quality.png)   |     ![](src/assets/screenshots/services.png)     |
+|                🔹 Special Offers                 |               🔹 Customer Reviews                |
+|  :--------------------------------------------:  |  :--------------------------------------------:  |
+|  ![](src/assets/screenshots/special-offers.png)  | ![](src/assets/screenshots/customer-reviews.png) |
+|                  🔹 Newsletter                   |                      Footer                      |
+|  :--------------------------------------------:  |  :--------------------------------------------:  |
+|    ![](src/assets/screenshots/subscribe.png)     |      ![](src/assets/screenshots/footer.png)      |
 
 ## ⚙️ Features
 
@@ -58,7 +58,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/cloutHacker/Nike-Site-with-React-and-TailwindCss.git
+   git clone https://github.com/your-username/nike-clone.git
    cd nike-clone
    npm install
    npm run dev
